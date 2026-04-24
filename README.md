@@ -1,6 +1,6 @@
 # WIKI-LINUX-Guia-FACULDADE
 # Aluno: 
-Carlos Eduardo Barcelos Marques RGM: 11261105239
+Diego Giorgi Rgm:11261105403
   # 📘 Wiki de Comandos Linux
 
 Contem 30 comandos Linux importantes e relacionados a Bioinformática e Engenharia Biomédica.
