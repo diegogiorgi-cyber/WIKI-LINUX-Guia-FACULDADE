@@ -1,12 +1,12 @@
-# WIKI-LINUX-Guia-FACULDADE
+# WIKI- ativi
 # Aluno: 
-Carlos Eduardo Barcelos Marques RGM: 11261105239
+Diego Giorgi RGM 11261105403
   # 📘 Wiki de Comandos Linux
 
 Contem 30 comandos Linux importantes e relacionados a Bioinformática e Engenharia Biomédica.
 
 ##  1 COMANDO - ls
-**Para que serve:** Ele verifica os arquivos e pastas de um diretório selecionado.
+**Para que serve:** Lista os arquivos e diretórios presentes no diretório atual. Pode ser usado com opções para mostrar detalhes, arquivos ocultos, etc.
 **Exemplo:**
 ```bash
 ls -1 
